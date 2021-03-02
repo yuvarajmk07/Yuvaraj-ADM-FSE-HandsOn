@@ -1,0 +1,10 @@
+C:\Users\Uvi\Documents\VStudio 2019\WindowsForms\Handson\WindowsFileUpload\WindowsFileUpload\bin\Debug\WindowsFileUpload.exe.config
+C:\Users\Uvi\Documents\VStudio 2019\WindowsForms\Handson\WindowsFileUpload\WindowsFileUpload\bin\Debug\WindowsFileUpload.exe
+C:\Users\Uvi\Documents\VStudio 2019\WindowsForms\Handson\WindowsFileUpload\WindowsFileUpload\bin\Debug\WindowsFileUpload.pdb
+C:\Users\Uvi\Documents\VStudio 2019\WindowsForms\Handson\WindowsFileUpload\WindowsFileUpload\obj\Debug\WindowsFileUpload.csprojAssemblyReference.cache
+C:\Users\Uvi\Documents\VStudio 2019\WindowsForms\Handson\WindowsFileUpload\WindowsFileUpload\obj\Debug\WindowsFileUpload.Form1.resources
+C:\Users\Uvi\Documents\VStudio 2019\WindowsForms\Handson\WindowsFileUpload\WindowsFileUpload\obj\Debug\WindowsFileUpload.Properties.Resources.resources
+C:\Users\Uvi\Documents\VStudio 2019\WindowsForms\Handson\WindowsFileUpload\WindowsFileUpload\obj\Debug\WindowsFileUpload.csproj.GenerateResource.cache
+C:\Users\Uvi\Documents\VStudio 2019\WindowsForms\Handson\WindowsFileUpload\WindowsFileUpload\obj\Debug\WindowsFileUpload.csproj.CoreCompileInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\WindowsForms\Handson\WindowsFileUpload\WindowsFileUpload\obj\Debug\WindowsFileUpload.exe
+C:\Users\Uvi\Documents\VStudio 2019\WindowsForms\Handson\WindowsFileUpload\WindowsFileUpload\obj\Debug\WindowsFileUpload.pdb

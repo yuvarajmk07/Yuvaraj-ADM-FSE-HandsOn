@@ -1,0 +1,9 @@
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\Async2\Async2\bin\Debug\Async2.exe.config
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\Async2\Async2\bin\Debug\Async2.exe
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\Async2\Async2\bin\Debug\Async2.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\Async2\Async2\obj\Debug\Async2.Form1.resources
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\Async2\Async2\obj\Debug\Async2.Properties.Resources.resources
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\Async2\Async2\obj\Debug\Async2.csproj.GenerateResource.cache
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\Async2\Async2\obj\Debug\Async2.csproj.CoreCompileInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\Async2\Async2\obj\Debug\Async2.exe
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\Async2\Async2\obj\Debug\Async2.pdb

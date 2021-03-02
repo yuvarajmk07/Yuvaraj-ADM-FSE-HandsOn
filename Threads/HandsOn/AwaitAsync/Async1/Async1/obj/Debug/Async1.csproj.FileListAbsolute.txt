@@ -1,0 +1,7 @@
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\Async1\Async1\bin\Debug\Async1.exe.config
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\Async1\Async1\bin\Debug\Async1.exe
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\Async1\Async1\bin\Debug\Async1.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\Async1\Async1\obj\Debug\Async1.csprojAssemblyReference.cache
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\Async1\Async1\obj\Debug\Async1.csproj.CoreCompileInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\Async1\Async1\obj\Debug\Async1.exe
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\Async1\Async1\obj\Debug\Async1.pdb

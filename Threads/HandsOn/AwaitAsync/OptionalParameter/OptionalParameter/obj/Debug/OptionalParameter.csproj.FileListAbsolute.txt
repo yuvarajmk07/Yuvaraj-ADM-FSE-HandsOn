@@ -1,0 +1,7 @@
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\OptionalParameter\OptionalParameter\bin\Debug\OptionalParameter.exe.config
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\OptionalParameter\OptionalParameter\bin\Debug\OptionalParameter.exe
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\OptionalParameter\OptionalParameter\bin\Debug\OptionalParameter.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\OptionalParameter\OptionalParameter\obj\Debug\OptionalParameter.csprojAssemblyReference.cache
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\OptionalParameter\OptionalParameter\obj\Debug\OptionalParameter.csproj.CoreCompileInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\OptionalParameter\OptionalParameter\obj\Debug\OptionalParameter.exe
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\OptionalParameter\OptionalParameter\obj\Debug\OptionalParameter.pdb

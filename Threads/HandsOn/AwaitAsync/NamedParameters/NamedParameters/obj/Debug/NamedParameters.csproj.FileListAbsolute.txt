@@ -1,0 +1,7 @@
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\NamedParameters\NamedParameters\bin\Debug\NamedParameters.exe.config
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\NamedParameters\NamedParameters\bin\Debug\NamedParameters.exe
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\NamedParameters\NamedParameters\bin\Debug\NamedParameters.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\NamedParameters\NamedParameters\obj\Debug\NamedParameters.csprojAssemblyReference.cache
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\NamedParameters\NamedParameters\obj\Debug\NamedParameters.csproj.CoreCompileInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\NamedParameters\NamedParameters\obj\Debug\NamedParameters.exe
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\AwaitAsync\NamedParameters\NamedParameters\obj\Debug\NamedParameters.pdb

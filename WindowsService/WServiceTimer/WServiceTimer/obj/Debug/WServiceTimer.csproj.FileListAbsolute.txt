@@ -1,0 +1,9 @@
+C:\Users\Uvi\Documents\VStudio 2019\WindowsService\WServiceTimer\WServiceTimer\bin\Debug\WServiceTimer.exe.config
+C:\Users\Uvi\Documents\VStudio 2019\WindowsService\WServiceTimer\WServiceTimer\bin\Debug\WServiceTimer.exe
+C:\Users\Uvi\Documents\VStudio 2019\WindowsService\WServiceTimer\WServiceTimer\bin\Debug\WServiceTimer.pdb
+C:\Users\Uvi\Documents\VStudio 2019\WindowsService\WServiceTimer\WServiceTimer\obj\Debug\WServiceTimer.csprojAssemblyReference.cache
+C:\Users\Uvi\Documents\VStudio 2019\WindowsService\WServiceTimer\WServiceTimer\obj\Debug\WServiceTimer.csproj.CoreCompileInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\WindowsService\WServiceTimer\WServiceTimer\obj\Debug\WServiceTimer.exe
+C:\Users\Uvi\Documents\VStudio 2019\WindowsService\WServiceTimer\WServiceTimer\obj\Debug\WServiceTimer.pdb
+C:\Users\Uvi\Documents\VStudio 2019\WindowsService\WServiceTimer\WServiceTimer\obj\Debug\WServiceTimer.ProjectInstaller.resources
+C:\Users\Uvi\Documents\VStudio 2019\WindowsService\WServiceTimer\WServiceTimer\obj\Debug\WServiceTimer.csproj.GenerateResource.cache

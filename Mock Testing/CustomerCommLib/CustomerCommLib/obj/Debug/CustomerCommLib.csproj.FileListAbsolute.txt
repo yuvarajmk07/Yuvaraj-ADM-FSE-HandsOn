@@ -1,0 +1,5 @@
+C:\Users\Uvi\Documents\VStudio 2019\Mock Testing\CustomerCommLib\CustomerCommLib\bin\Debug\CustomerCommLib.dll
+C:\Users\Uvi\Documents\VStudio 2019\Mock Testing\CustomerCommLib\CustomerCommLib\bin\Debug\CustomerCommLib.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Mock Testing\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\Mock Testing\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.dll
+C:\Users\Uvi\Documents\VStudio 2019\Mock Testing\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.pdb

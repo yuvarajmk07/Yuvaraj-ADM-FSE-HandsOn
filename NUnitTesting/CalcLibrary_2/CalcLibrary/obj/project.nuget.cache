@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EqoytBf03GweGdfyzPSxlpH+3D+vI6gsUZTMbctlCjL7++6wNQJOPMQVJbuoDJccon+df+NwT1BH22qou2xcMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Uvi\\Documents\\VStudio 2019\\NUnitTesting\\CalcLibrary_2\\CalcLibrary\\CalcLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Uvi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Uvi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

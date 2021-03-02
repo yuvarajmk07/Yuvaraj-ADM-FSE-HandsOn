@@ -1,0 +1,7 @@
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\ThreadStartSample\ThreadStartSample\bin\Debug\ThreadStartSample.exe.config
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\ThreadStartSample\ThreadStartSample\bin\Debug\ThreadStartSample.exe
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\ThreadStartSample\ThreadStartSample\bin\Debug\ThreadStartSample.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.csprojAssemblyReference.cache
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.csproj.CoreCompileInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.exe
+C:\Users\Uvi\Documents\VStudio 2019\Threads\HandsOn\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.pdb
