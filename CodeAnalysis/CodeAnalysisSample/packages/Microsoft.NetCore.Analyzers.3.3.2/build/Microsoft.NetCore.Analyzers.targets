@@ -1,0 +1,52 @@
+<Project>
+  <Target Name="AddGlobalAnalyzerConfigForPackage_MicrosoftNetCoreAnalyzers" BeforeTargets="CoreCompile" Condition="'$(SkipGlobalAnalyzerConfigForPackage)' != 'true'">
+    <!-- PropertyGroup to compute global analyzer config file to be used -->
+    <PropertyGroup>
+      <!-- Set the default analysis mode, if not set by the user -->
+      <_GlobalAnalyzerConfigAnalysisMode_MicrosoftNetCoreAnalyzers>$(AnalysisMode)</_GlobalAnalyzerConfigAnalysisMode_MicrosoftNetCoreAnalyzers>
+      <_GlobalAnalyzerConfigAnalysisMode_MicrosoftNetCoreAnalyzers Condition="'$(_GlobalAnalyzerConfigAnalysisMode_MicrosoftNetCoreAnalyzers)' == ''">Default</_GlobalAnalyzerConfigAnalysisMode_MicrosoftNetCoreAnalyzers>
+
+      <!-- GlobalAnalyzerConfig file name based on user specified package version 'MicrosoftNetCoreAnalyzersRulesVersion', if any. We replace '.' with '_' to map the version string to file name suffix. -->
+      <_GlobalAnalyzerConfigFileName_MicrosoftNetCoreAnalyzers Condition="'$(MicrosoftNetCoreAnalyzersRulesVersion)' != ''">AnalysisLevel_$(MicrosoftNetCoreAnalyzersRulesVersion.Replace(".","_"))_$(_GlobalAnalyzerConfigAnalysisMode_MicrosoftNetCoreAnalyzers).editorconfig</_GlobalAnalyzerConfigFileName_MicrosoftNetCoreAnalyzers>
+      
+      <_GlobalAnalyzerConfigDir_MicrosoftNetCoreAnalyzers Condition="'$(_GlobalAnalyzerConfigDir_MicrosoftNetCoreAnalyzers)' == ''">$(MSBuildThisFileDirectory)config</_GlobalAnalyzerConfigDir_MicrosoftNetCoreAnalyzers>
+      <_GlobalAnalyzerConfigFile_MicrosoftNetCoreAnalyzers Condition="'$(_GlobalAnalyzerConfigFileName_MicrosoftNetCoreAnalyzers)' != ''">$(_GlobalAnalyzerConfigDir_MicrosoftNetCoreAnalyzers)\$(_GlobalAnalyzerConfigFileName_MicrosoftNetCoreAnalyzers)</_GlobalAnalyzerConfigFile_MicrosoftNetCoreAnalyzers>
+    </PropertyGroup>
+
+    <ItemGroup Condition="Exists('$(_GlobalAnalyzerConfigFile_MicrosoftNetCoreAnalyzers)')">
+      <EditorConfigFiles Include="$(_GlobalAnalyzerConfigFile_MicrosoftNetCoreAnalyzers)" />
+    </ItemGroup>
+  </Target>
+
+  <!-- MSBuild properties to thread to the analyzers as options --> 
+  <ItemGroup>
+    <CompilerVisibleProperty Include="TargetFramework" />
+    <CompilerVisibleProperty Include="TargetPlatformMinVersion" />
+    <CompilerVisibleProperty Include="UsingMicrosoftNETSdkWeb" />
+    <CompilerVisibleProperty Include="ProjectTypeGuids" />
+    <CompilerVisibleProperty Include="PublishSingleFile" />
+    <CompilerVisibleProperty Include="IncludeAllContentForSelfExtract" />
+  </ItemGroup>
+
+  <!-- MSBuild item metadata to thread to the analyzers as options -->
+  <PropertyGroup>
+    <_SupportedPlatformList>@(SupportedPlatform, ',')</_SupportedPlatformList>
+  </PropertyGroup>
+
+  <!-- MSBuild properties to thread to the analyzers as options --> 
+  <ItemGroup>
+    <CompilerVisibleProperty Include="_SupportedPlatformList" />
+  </ItemGroup>
+
+  <!--
+    Design-time target to prevent the rule ids implemented in this package to be bumped to errors in the IDE
+    when 'CodeAnalysisTreatWarningsAsErrors' = 'false'. Note that a similar 'WarningsNotAsErrors'
+    property group is present in the generated props file to ensure this functionality on command line builds.
+  -->
+  <Target Name="_CodeAnalysisTreatWarningsNotAsErrors" BeforeTargets="CoreCompile" Condition="'$(CodeAnalysisTreatWarningsAsErrors)' == 'false' AND ('$(DesignTimeBuild)' == 'true' OR '$(BuildingProject)' != 'true')">
+    <PropertyGroup>
+      <WarningsNotAsErrors>$(WarningsNotAsErrors);$(CodeAnalysisRuleIds)</WarningsNotAsErrors>
+    </PropertyGroup>    
+  </Target>
+
+</Project>
