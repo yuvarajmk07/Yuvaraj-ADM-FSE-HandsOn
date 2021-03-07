@@ -1,17 +1,170 @@
-2021-03-07 19:19:33,560 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
-2021-03-07 19:19:33,593 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
-2021-03-07 19:19:33,598 INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\ExceptionLogging\ExceptionLogging
-2021-03-07 19:19:33,882 ERROR ExceptionLogging.Models.LoggerManager - Exception Happened In Index and Handled in OnException
-2021-03-07 19:19:34,092 ERROR ExceptionLogging.Models.LoggerManager -    at ExceptionLogging.Controllers.HomeController.Index() in C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\ExceptionLogging\ExceptionLogging\Controllers\HomeController.cs:line 24
+2021-03-07 19:29:35,614 DEBUG Microsoft.Extensions.Hosting.Internal.Host - Hosting starting
+2021-03-07 19:29:35,743 INFO Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'C:\Users\Uvi\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-07 19:29:35,764 DEBUG Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository - Reading data from file 'C:\Users\Uvi\AppData\Local\ASP.NET\DataProtection-Keys\key-474f9736-4062-4389-a640-08e6b2aca571.xml'.
+2021-03-07 19:29:35,779 DEBUG Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager - Found key {474f9736-4062-4389-a640-08e6b2aca571}.
+2021-03-07 19:29:35,806 DEBUG Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver - Considering key {474f9736-4062-4389-a640-08e6b2aca571} with expiration date 2021-05-11 13:22:00Z as default key.
+2021-03-07 19:29:35,888 DEBUG Microsoft.AspNetCore.DataProtection.TypeForwardingActivator - Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=3.1.11.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-03-07 19:29:35,892 DEBUG Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor - Decrypting secret element using Windows DPAPI.
+2021-03-07 19:29:35,895 DEBUG Microsoft.AspNetCore.DataProtection.TypeForwardingActivator - Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=3.1.11.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-03-07 19:29:35,900 DEBUG Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory - Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2021-03-07 19:29:35,907 DEBUG Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory - Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2021-03-07 19:29:35,915 DEBUG Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingProvider - Using key {474f9736-4062-4389-a640-08e6b2aca571} as the default key.
+2021-03-07 19:29:35,916 DEBUG Microsoft.AspNetCore.DataProtection.Internal.DataProtectionHostedService - Key ring with default key {474f9736-4062-4389-a640-08e6b2aca571} was loaded during application startup.
+2021-03-07 19:29:36,230 DEBUG Microsoft.AspNetCore.Hosting.Diagnostics - Loaded hosting startup assembly ExceptionLogging
+2021-03-07 19:29:36,230 DEBUG Microsoft.AspNetCore.Hosting.Diagnostics - Loaded hosting startup assembly ExceptionLogging
+2021-03-07 19:29:36,231 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-03-07 19:29:36,231 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-03-07 19:29:36,231 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-03-07 19:29:36,231 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-03-07 19:29:36,231 INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\ExceptionLogging\ExceptionLogging
+2021-03-07 19:29:36,231 INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\ExceptionLogging\ExceptionLogging
+2021-03-07 19:29:36,231 DEBUG Microsoft.Extensions.Hosting.Internal.Host - Hosting started
+2021-03-07 19:29:36,231 DEBUG Microsoft.Extensions.Hosting.Internal.Host - Hosting started
+2021-03-07 19:29:36,312 INFO Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2.0 GET https://localhost:44393/  
+2021-03-07 19:29:36,312 INFO Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2.0 GET https://localhost:44393/  
+2021-03-07 19:29:36,314 DEBUG Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware - Wildcard detected, all requests with hosts will be allowed.
+2021-03-07 19:29:36,314 DEBUG Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware - Wildcard detected, all requests with hosts will be allowed.
+2021-03-07 19:29:36,315 TRACE Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware - All hosts are allowed.
+2021-03-07 19:29:36,315 TRACE Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware - All hosts are allowed.
+2021-03-07 19:29:36,318 DEBUG Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - The request path / does not match a supported file type
+2021-03-07 19:29:36,318 DEBUG Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware - The request path / does not match a supported file type
+2021-03-07 19:29:36,330 DEBUG Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2021-03-07 19:29:36,330 DEBUG Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2021-03-07 19:29:36,330 DEBUG Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+2021-03-07 19:29:36,330 DEBUG Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+2021-03-07 19:29:36,330 DEBUG Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Initializing Razor view compiler with compiled view: '/Views/Shared/CustomException.cshtml'.
+2021-03-07 19:29:36,330 DEBUG Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Initializing Razor view compiler with compiled view: '/Views/Shared/CustomException.cshtml'.
+2021-03-07 19:29:36,330 DEBUG Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+2021-03-07 19:29:36,330 DEBUG Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+2021-03-07 19:29:36,330 DEBUG Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2021-03-07 19:29:36,330 DEBUG Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2021-03-07 19:29:36,330 DEBUG Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+2021-03-07 19:29:36,331 DEBUG Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+2021-03-07 19:29:36,331 DEBUG Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+2021-03-07 19:29:36,331 DEBUG Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+2021-03-07 19:29:36,331 DEBUG Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+2021-03-07 19:29:36,331 DEBUG Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+2021-03-07 19:29:36,358 DEBUG Microsoft.AspNetCore.Routing.Matching.DfaMatcher - 1 candidate(s) found for the request path '/'
+2021-03-07 19:29:36,358 DEBUG Microsoft.AspNetCore.Routing.Matching.DfaMatcher - 1 candidate(s) found for the request path '/'
+2021-03-07 19:29:36,363 DEBUG Microsoft.AspNetCore.Routing.Matching.DfaMatcher - Endpoint 'ExceptionLogging.Controllers.HomeController.Index (ExceptionLogging)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+2021-03-07 19:29:36,363 DEBUG Microsoft.AspNetCore.Routing.Matching.DfaMatcher - Endpoint 'ExceptionLogging.Controllers.HomeController.Index (ExceptionLogging)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+2021-03-07 19:29:36,365 DEBUG Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware - Request matched endpoint 'ExceptionLogging.Controllers.HomeController.Index (ExceptionLogging)'
+2021-03-07 19:29:36,365 DEBUG Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware - Request matched endpoint 'ExceptionLogging.Controllers.HomeController.Index (ExceptionLogging)'
+2021-03-07 19:29:36,369 INFO Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'ExceptionLogging.Controllers.HomeController.Index (ExceptionLogging)'
+2021-03-07 19:29:36,369 INFO Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'ExceptionLogging.Controllers.HomeController.Index (ExceptionLogging)'
+2021-03-07 19:29:36,382 DEBUG Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider
+2021-03-07 19:29:36,382 DEBUG Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider
+2021-03-07 19:29:36,455 INFO Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ExceptionLogging.Controllers.HomeController (ExceptionLogging).
+2021-03-07 19:29:36,455 INFO Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ExceptionLogging.Controllers.HomeController (ExceptionLogging).
+2021-03-07 19:29:36,455 DEBUG Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Execution plan of authorization filters (in the following order): None
+2021-03-07 19:29:36,455 DEBUG Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Execution plan of authorization filters (in the following order): None
+2021-03-07 19:29:36,456 DEBUG Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2021-03-07 19:29:36,456 DEBUG Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2021-03-07 19:29:36,456 DEBUG Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2021-03-07 19:29:36,456 DEBUG Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2021-03-07 19:29:36,456 DEBUG Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Execution plan of exception filters (in the following order): ExceptionLogging.Models.CustomExceptionHandler
+2021-03-07 19:29:36,456 DEBUG Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Execution plan of exception filters (in the following order): ExceptionLogging.Models.CustomExceptionHandler
+2021-03-07 19:29:36,456 DEBUG Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2021-03-07 19:29:36,456 DEBUG Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2021-03-07 19:29:36,457 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2021-03-07 19:29:36,457 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2021-03-07 19:29:36,458 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2021-03-07 19:29:36,458 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2021-03-07 19:29:36,458 DEBUG Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Executing controller factory for controller ExceptionLogging.Controllers.HomeController (ExceptionLogging)
+2021-03-07 19:29:36,458 DEBUG Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Executing controller factory for controller ExceptionLogging.Controllers.HomeController (ExceptionLogging)
+2021-03-07 19:29:36,459 DEBUG Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Executed controller factory for controller ExceptionLogging.Controllers.HomeController (ExceptionLogging)
+2021-03-07 19:29:36,459 DEBUG Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Executed controller factory for controller ExceptionLogging.Controllers.HomeController (ExceptionLogging)
+2021-03-07 19:29:36,460 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Action Filter: Before executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter.
+2021-03-07 19:29:36,460 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Action Filter: Before executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter.
+2021-03-07 19:29:36,460 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2021-03-07 19:29:36,461 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2021-03-07 19:29:36,461 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2021-03-07 19:29:36,461 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2021-03-07 19:29:36,469 INFO Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Executing action method ExceptionLogging.Controllers.HomeController.Index (ExceptionLogging) - Validation state: Valid
+2021-03-07 19:29:36,469 INFO Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Executing action method ExceptionLogging.Controllers.HomeController.Index (ExceptionLogging) - Validation state: Valid
+2021-03-07 19:29:36,672 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2021-03-07 19:29:36,672 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2021-03-07 19:29:36,672 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2021-03-07 19:29:36,672 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2021-03-07 19:29:36,672 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Action Filter: After executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter.
+2021-03-07 19:29:36,672 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Action Filter: After executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter.
+2021-03-07 19:29:36,674 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Exception Filter: Before executing OnException on filter ExceptionLogging.Models.CustomExceptionHandler.
+2021-03-07 19:29:36,674 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Exception Filter: Before executing OnException on filter ExceptionLogging.Models.CustomExceptionHandler.
+2021-03-07 19:29:36,675 ERROR ExceptionLogging.Models.LoggerManager - Exception Happened In Index and Handled in OnException
+2021-03-07 19:29:36,874 ERROR ExceptionLogging.Models.LoggerManager -    at ExceptionLogging.Controllers.HomeController.Index() in C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\ExceptionLogging\ExceptionLogging\Controllers\HomeController.cs:line 24
    at lambda_method(Closure , Object , Object[] )
    at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
    at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
-   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
-   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
-   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
---- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
    at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
    at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
    at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
 --- End of stack trace from previous location where exception was thrown ---
    at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2021-03-07 19:29:36,874 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Exception Filter: After executing OnException on filter ExceptionLogging.Models.CustomExceptionHandler.
+2021-03-07 19:29:36,874 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Exception Filter: After executing OnException on filter ExceptionLogging.Models.CustomExceptionHandler.
+2021-03-07 19:29:36,874 DEBUG Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Request was short circuited at exception filter 'ExceptionLogging.Models.CustomExceptionHandler'.
+2021-03-07 19:29:36,874 DEBUG Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Request was short circuited at exception filter 'ExceptionLogging.Models.CustomExceptionHandler'.
+2021-03-07 19:29:36,881 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Before executing action result Microsoft.AspNetCore.Mvc.ViewResult.
+2021-03-07 19:29:36,881 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Before executing action result Microsoft.AspNetCore.Mvc.ViewResult.
+2021-03-07 19:29:36,886 DEBUG Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine - View lookup cache miss for view 'CustomException' in controller 'Home'.
+2021-03-07 19:29:36,886 DEBUG Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine - View lookup cache miss for view 'CustomException' in controller 'Home'.
+2021-03-07 19:29:36,888 TRACE Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Could not find a file for view at path '/Views/Home/CustomException.cshtml'.
+2021-03-07 19:29:36,888 TRACE Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Could not find a file for view at path '/Views/Home/CustomException.cshtml'.
+2021-03-07 19:29:36,893 TRACE Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Located compiled view for view at path '/Views/Shared/CustomException.cshtml'.
+2021-03-07 19:29:36,893 TRACE Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Located compiled view for view at path '/Views/Shared/CustomException.cshtml'.
+2021-03-07 19:29:36,902 TRACE Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Could not find a file for view at path '/Views/Shared/_ViewStart.cshtml'.
+2021-03-07 19:29:36,902 TRACE Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Could not find a file for view at path '/Views/Shared/_ViewStart.cshtml'.
+2021-03-07 19:29:36,902 TRACE Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Located compiled view for view at path '/Views/_ViewStart.cshtml'.
+2021-03-07 19:29:36,902 TRACE Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Located compiled view for view at path '/Views/_ViewStart.cshtml'.
+2021-03-07 19:29:36,905 TRACE Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Could not find a file for view at path '/_ViewStart.cshtml'.
+2021-03-07 19:29:36,905 TRACE Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Could not find a file for view at path '/_ViewStart.cshtml'.
+2021-03-07 19:29:36,915 INFO Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor - Executing ViewResult, running view CustomException.
+2021-03-07 19:29:36,915 INFO Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor - Executing ViewResult, running view CustomException.
+2021-03-07 19:29:36,927 DEBUG Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor - The view path '/Views/Shared/CustomException.cshtml' was found in 31.2356ms.
+2021-03-07 19:29:36,927 DEBUG Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor - The view path '/Views/Shared/CustomException.cshtml' was found in 31.2356ms.
+2021-03-07 19:29:37,264 DEBUG Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine - View lookup cache miss for view '_Layout' in controller 'Home'.
+2021-03-07 19:29:37,265 DEBUG Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine - View lookup cache miss for view '_Layout' in controller 'Home'.
+2021-03-07 19:29:37,265 TRACE Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Could not find a file for view at path '/Views/Home/_Layout.cshtml'.
+2021-03-07 19:29:37,265 TRACE Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Could not find a file for view at path '/Views/Home/_Layout.cshtml'.
+2021-03-07 19:29:37,265 TRACE Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Located compiled view for view at path '/Views/Shared/_Layout.cshtml'.
+2021-03-07 19:29:37,265 TRACE Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler - Located compiled view for view at path '/Views/Shared/_Layout.cshtml'.
+2021-03-07 19:29:37,387 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2021-03-07 19:29:37,387 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2021-03-07 19:29:37,404 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2021-03-07 19:29:37,404 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2021-03-07 19:29:37,418 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /
+2021-03-07 19:29:37,418 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /
+2021-03-07 19:29:37,422 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2021-03-07 19:29:37,422 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2021-03-07 19:29:37,422 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2021-03-07 19:29:37,422 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2021-03-07 19:29:37,422 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /
+2021-03-07 19:29:37,422 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /
+2021-03-07 19:29:37,423 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2021-03-07 19:29:37,423 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2021-03-07 19:29:37,424 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2021-03-07 19:29:37,424 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2021-03-07 19:29:37,424 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Home/Privacy
+2021-03-07 19:29:37,424 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Home/Privacy
+2021-03-07 19:29:37,425 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2021-03-07 19:29:37,425 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2021-03-07 19:29:37,425 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2021-03-07 19:29:37,425 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2021-03-07 19:29:37,425 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Home/Privacy
+2021-03-07 19:29:37,426 DEBUG Microsoft.AspNetCore.Routing.DefaultLinkGenerator - Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Home/Privacy
+2021-03-07 19:29:37,473 INFO Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor - Executed ViewResult - view CustomException executed in 589.3368ms.
+2021-03-07 19:29:37,473 INFO Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor - Executed ViewResult - view CustomException executed in 589.3368ms.
+2021-03-07 19:29:37,473 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - After executing action result Microsoft.AspNetCore.Mvc.ViewResult.
+2021-03-07 19:29:37,473 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - After executing action result Microsoft.AspNetCore.Mvc.ViewResult.
+2021-03-07 19:29:37,474 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2021-03-07 19:29:37,474 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2021-03-07 19:29:37,474 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2021-03-07 19:29:37,474 TRACE Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2021-03-07 19:29:37,474 INFO Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Executed action ExceptionLogging.Controllers.HomeController.Index (ExceptionLogging) in 1017.7227ms
+2021-03-07 19:29:37,474 INFO Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker - Executed action ExceptionLogging.Controllers.HomeController.Index (ExceptionLogging) in 1017.7227ms
+2021-03-07 19:29:37,476 INFO Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'ExceptionLogging.Controllers.HomeController.Index (ExceptionLogging)'
+2021-03-07 19:29:37,476 INFO Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'ExceptionLogging.Controllers.HomeController.Index (ExceptionLogging)'
+2021-03-07 19:29:37,481 INFO Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1171.509ms 200 text/html; charset=utf-8
+2021-03-07 19:29:37,481 INFO Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1171.509ms 200 text/html; charset=utf-8
