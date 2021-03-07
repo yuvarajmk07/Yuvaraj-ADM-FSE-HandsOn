@@ -27,18 +27,7 @@ namespace ExceptionLogging.Controllers
 
         public IActionResult Privacy()
         {
-            try
-            {
-                throw new Exception("Exception Happened in Privacy and Handled in Controller");
-                return View();
-            }
-            catch(Exception e)
-            {
-                ErrorViewModel  defaultpage= new ErrorViewModel();
-                _logger.LogInformation(e.Message.ToString());
-                _logger.LogInformation(e.StackTrace.ToString());
-                return View("Error",defaultpage);
-            }
+            return View();
             
         }
 

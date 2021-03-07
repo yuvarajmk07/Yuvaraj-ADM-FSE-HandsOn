@@ -1,8 +1,8 @@
-2021-03-06 23:35:14,092 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
-2021-03-06 23:35:14,116 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
-2021-03-06 23:35:14,120 INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Uvi\Documents\VStudio 2019\ExceptionLogging\ExceptionLogging
-2021-03-06 23:35:14,385 ERROR ExceptionLogging.Models.LoggerManager - Exception Happened In Index and Handled in OnException
-2021-03-06 23:35:14,506 ERROR ExceptionLogging.Models.LoggerManager -    at ExceptionLogging.Controllers.HomeController.Index() in C:\Users\Uvi\Documents\VStudio 2019\ExceptionLogging\ExceptionLogging\Controllers\HomeController.cs:line 24
+2021-03-07 19:19:33,560 INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-03-07 19:19:33,593 INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-03-07 19:19:33,598 INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\ExceptionLogging\ExceptionLogging
+2021-03-07 19:19:33,882 ERROR ExceptionLogging.Models.LoggerManager - Exception Happened In Index and Handled in OnException
+2021-03-07 19:19:34,092 ERROR ExceptionLogging.Models.LoggerManager -    at ExceptionLogging.Controllers.HomeController.Index() in C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\ExceptionLogging\ExceptionLogging\Controllers\HomeController.cs:line 24
    at lambda_method(Closure , Object , Object[] )
    at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
    at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
@@ -15,5 +15,3 @@
    at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
 --- End of stack trace from previous location where exception was thrown ---
    at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
-2021-03-06 23:35:24,266 ERROR ExceptionLogging.Models.LoggerManager - Exception Happened in Privacy and Handled in Controller
-2021-03-06 23:35:24,268 ERROR ExceptionLogging.Models.LoggerManager -    at ExceptionLogging.Controllers.HomeController.Privacy() in C:\Users\Uvi\Documents\VStudio 2019\ExceptionLogging\ExceptionLogging\Controllers\HomeController.cs:line 32

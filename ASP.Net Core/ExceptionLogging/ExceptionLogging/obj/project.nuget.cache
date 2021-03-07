@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6sbu7nzxh95hfDovoJLEToxOjr0dMSu3+nbzmMVcyQH8Bb8p3pLMt7cz8GHCx9Cpth6V2ShnaQyYp1h8qnFsbQ==",
+  "dgSpecHash": "wNx4K1e1s+L4YmdYfVWo7IiVJwlzPuO4Bs4I0sVojkpBfzP51b4AXXlnBQ3UYqNZeYHXlWEsfgnlCI4pWTfYkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Uvi\\Documents\\VStudio 2019\\ExceptionLogging\\ExceptionLogging\\ExceptionLogging.csproj",
+  "projectFilePath": "C:\\Users\\Uvi\\Documents\\VStudio 2019\\890402_YuvarajManikannan_Stage_3-HandsOn\\ASP.Net Core\\ExceptionLogging\\ExceptionLogging\\ExceptionLogging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Uvi\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
     "C:\\Users\\Uvi\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.10\\microsoft.extensions.configuration.3.1.10.nupkg.sha512",

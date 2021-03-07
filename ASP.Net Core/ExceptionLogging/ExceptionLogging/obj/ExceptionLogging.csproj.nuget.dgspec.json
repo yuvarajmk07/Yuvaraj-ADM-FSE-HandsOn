@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Uvi\\Documents\\VStudio 2019\\ExceptionLogging\\ExceptionLogging\\ExceptionLogging.csproj": {}
+    "C:\\Users\\Uvi\\Documents\\VStudio 2019\\890402_YuvarajManikannan_Stage_3-HandsOn\\ASP.Net Core\\ExceptionLogging\\ExceptionLogging\\ExceptionLogging.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Uvi\\Documents\\VStudio 2019\\ExceptionLogging\\ExceptionLogging\\ExceptionLogging.csproj": {
+    "C:\\Users\\Uvi\\Documents\\VStudio 2019\\890402_YuvarajManikannan_Stage_3-HandsOn\\ASP.Net Core\\ExceptionLogging\\ExceptionLogging\\ExceptionLogging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Uvi\\Documents\\VStudio 2019\\ExceptionLogging\\ExceptionLogging\\ExceptionLogging.csproj",
+        "projectUniqueName": "C:\\Users\\Uvi\\Documents\\VStudio 2019\\890402_YuvarajManikannan_Stage_3-HandsOn\\ASP.Net Core\\ExceptionLogging\\ExceptionLogging\\ExceptionLogging.csproj",
         "projectName": "ExceptionLogging",
-        "projectPath": "C:\\Users\\Uvi\\Documents\\VStudio 2019\\ExceptionLogging\\ExceptionLogging\\ExceptionLogging.csproj",
+        "projectPath": "C:\\Users\\Uvi\\Documents\\VStudio 2019\\890402_YuvarajManikannan_Stage_3-HandsOn\\ASP.Net Core\\ExceptionLogging\\ExceptionLogging\\ExceptionLogging.csproj",
         "packagesPath": "C:\\Users\\Uvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Uvi\\Documents\\VStudio 2019\\ExceptionLogging\\ExceptionLogging\\obj\\",
+        "outputPath": "C:\\Users\\Uvi\\Documents\\VStudio 2019\\890402_YuvarajManikannan_Stage_3-HandsOn\\ASP.Net Core\\ExceptionLogging\\ExceptionLogging\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Uvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
