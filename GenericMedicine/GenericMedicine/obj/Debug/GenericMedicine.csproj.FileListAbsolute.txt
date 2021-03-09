@@ -1,0 +1,7 @@
+C:\Users\Uvi\Documents\VStudio 2019\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.exe.config
+C:\Users\Uvi\Documents\VStudio 2019\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.exe
+C:\Users\Uvi\Documents\VStudio 2019\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.pdb
+C:\Users\Uvi\Documents\VStudio 2019\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.csprojAssemblyReference.cache
+C:\Users\Uvi\Documents\VStudio 2019\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.csproj.CoreCompileInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.exe
+C:\Users\Uvi\Documents\VStudio 2019\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.pdb
