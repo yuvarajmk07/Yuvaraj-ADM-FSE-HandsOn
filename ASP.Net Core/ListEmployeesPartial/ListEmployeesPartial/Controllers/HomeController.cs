@@ -18,9 +18,7 @@ namespace ListEmployeesPartial.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
-        {
-            List<Employee> employee = new List<Employee>
+        public List<Employee> employee = new List<Employee>
             {
                 new Employee{Id=1,Name="John",Salary=10000,IsPermanent=true},
                 new Employee{Id=2,Name="Smith",Salary=5000,IsPermanent=false},
@@ -28,7 +26,10 @@ namespace ListEmployeesPartial.Controllers
                 new Employee{Id=4,Name="Mark",Salary=5000,IsPermanent=false}
 
             };
-            return View((List<Employee>)employee);
+        public IActionResult Index()
+        {
+            
+            return View(employee);
       
         }
 
@@ -46,15 +47,7 @@ namespace ListEmployeesPartial.Controllers
 
         public IActionResult GetEmployeeList()
         {
-            List<Employee> employee = new List<Employee>
-            {
-                new Employee{Id=1,Name="John",Salary=10000,IsPermanent=true},
-                new Employee{Id=2,Name="Smith",Salary=5000,IsPermanent=false},
-                new Employee{Id=3,Name="Mark",Salary=5000,IsPermanent=false},
-                new Employee{Id=4,Name="Mark",Salary=5000,IsPermanent=false}
-
-            };
-            return View((List<Employee>)employee);
+            return View(employee);
         }
     }
 }

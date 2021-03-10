@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Uvi\\Documents\\VStudio 2019\\ASP.Net Core\\ListEmployeesPartial\\ListEmployeesPartial\\ListEmployeesPartial.csproj": {}
+    "C:\\Users\\Uvi\\Documents\\VStudio 2019\\890402_YuvarajManikannan_Stage_3-HandsOn\\ASP.Net Core\\ListEmployeesPartial\\ListEmployeesPartial\\ListEmployeesPartial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Uvi\\Documents\\VStudio 2019\\ASP.Net Core\\ListEmployeesPartial\\ListEmployeesPartial\\ListEmployeesPartial.csproj": {
+    "C:\\Users\\Uvi\\Documents\\VStudio 2019\\890402_YuvarajManikannan_Stage_3-HandsOn\\ASP.Net Core\\ListEmployeesPartial\\ListEmployeesPartial\\ListEmployeesPartial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Uvi\\Documents\\VStudio 2019\\ASP.Net Core\\ListEmployeesPartial\\ListEmployeesPartial\\ListEmployeesPartial.csproj",
+        "projectUniqueName": "C:\\Users\\Uvi\\Documents\\VStudio 2019\\890402_YuvarajManikannan_Stage_3-HandsOn\\ASP.Net Core\\ListEmployeesPartial\\ListEmployeesPartial\\ListEmployeesPartial.csproj",
         "projectName": "ListEmployeesPartial",
-        "projectPath": "C:\\Users\\Uvi\\Documents\\VStudio 2019\\ASP.Net Core\\ListEmployeesPartial\\ListEmployeesPartial\\ListEmployeesPartial.csproj",
+        "projectPath": "C:\\Users\\Uvi\\Documents\\VStudio 2019\\890402_YuvarajManikannan_Stage_3-HandsOn\\ASP.Net Core\\ListEmployeesPartial\\ListEmployeesPartial\\ListEmployeesPartial.csproj",
         "packagesPath": "C:\\Users\\Uvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Uvi\\Documents\\VStudio 2019\\ASP.Net Core\\ListEmployeesPartial\\ListEmployeesPartial\\obj\\",
+        "outputPath": "C:\\Users\\Uvi\\Documents\\VStudio 2019\\890402_YuvarajManikannan_Stage_3-HandsOn\\ASP.Net Core\\ListEmployeesPartial\\ListEmployeesPartial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Uvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
