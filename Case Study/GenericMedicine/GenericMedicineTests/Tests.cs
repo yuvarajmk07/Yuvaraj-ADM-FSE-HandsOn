@@ -24,8 +24,9 @@ namespace GenericMedicineTests
         [TestCase("Remilyn D", "Remylin", ": Alpha lipoic acid","2024/10.12",80.00)]
         public void Medicine_ObjectCreation_Test(string name, string genericMedicineName, string composition, string expiryDate, double pricePerStrip)
         {
-            Medicine medicine = p.CreateMedicineDetail("Dolo 650", " Micromol F Tablet", "Paracetamol", DateTime.Parse("2022/12/01"), 100.00); ;
+            Medicine medicine = p.CreateMedicineDetail(name, genericMedicineName, composition, DateTime.Parse(expiryDate), pricePerStrip);
             Assert.AreEqual(typeof(Medicine),medicine.GetType());
+            Assert.AreEqual(name, medicine.Name);
         }
 
 
@@ -79,8 +80,8 @@ namespace GenericMedicineTests
 
         [Test]
         [TestCase(0, "2022/10/01", "Chennai")]
-        [TestCase(-5, "2024/10/01", "Bangalore")]
-        [TestCase(null, "2025/10/01", "Hyderabad")]
+        [TestCase(-5, "2021/10/01", "Bangalore")]
+        [TestCase(null, "2021/10/01", "Hyderabad")]
         public void Carton_StripCountLessThanZero_Exception(int medicineStripCount, string launchDate, string retailerAddress)
         {
             Medicine medicine_carton = p.CreateMedicineDetail("Dolo 650", " Micromol F Tablet", "Paracetamol", DateTime.Parse("2022/01/01"), 100.00);
@@ -111,7 +112,7 @@ namespace GenericMedicineTests
         {
             Medicine medicine_carton = null;
             CartonDetail d= p.CreateCartonDetail(medicineStripCount, DateTime.Parse(launchDate), retailerAddress, medicine_carton);
-            Assert.AreEqual(medicine_carton,d);
+            Assert.AreEqual(null,d);
         }
 
    
