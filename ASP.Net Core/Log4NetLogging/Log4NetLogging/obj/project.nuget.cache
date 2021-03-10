@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "DEJYi8O2aggM171m6LqXZ0wAGgaUvadJ6Ug0IfOQ35pm/izsSIE6tCLPIVK8fPZs07dkBFKvVFPi57YJETtoTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Uvi\\Documents\\VStudio 2019\\890402_YuvarajManikannan_Stage_3-HandsOn\\ASP.Net Core\\Log4NetLogging\\Log4NetLogging\\Log4NetLogging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Uvi\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
+    "C:\\Users\\Uvi\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Uvi\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\Uvi\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\Uvi\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\Uvi\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Uvi\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

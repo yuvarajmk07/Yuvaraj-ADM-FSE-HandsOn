@@ -1,0 +1,84 @@
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.csprojAssemblyReference.cache
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.AssemblyInfoInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.AssemblyInfo.cs
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.csproj.CoreCompileInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.RazorAssemblyInfo.cache
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.RazorAssemblyInfo.cs
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\Web.config
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\Log4NetLogging.exe
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\Log4NetLogging.deps.json
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\Log4NetLogging.runtimeconfig.json
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\Log4NetLogging.runtimeconfig.dev.json
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\Log4NetLogging.dll
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\Log4NetLogging.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\Log4NetLogging.Views.dll
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\Log4NetLogging.Views.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\staticwebassets\Log4NetLogging.StaticWebAssets.Manifest.cache
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\staticwebassets\Log4NetLogging.StaticWebAssets.xml
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\scopedcss\bundle\Log4NetLogging.styles.css
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.TagHelpers.input.cache
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.TagHelpers.output.cache
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.RazorCoreGenerate.cache
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.RazorTargetAssemblyInfo.cache
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.RazorTargetAssemblyInfo.cs
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.Views.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.csproj.CopyComplete
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.dll
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.genruntimeconfig.cache
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\Log4NetLogging.exe
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\Web.config
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\Log4NetLogging.deps.json
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\Log4NetLogging.runtimeconfig.json
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\Log4NetLogging.runtimeconfig.dev.json
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\Log4NetLogging.dll
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\Log4NetLogging.pdb
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\Log4NetLogging.Views.dll
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\Log4NetLogging.Views.pdb
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.csprojAssemblyReference.cache
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.AssemblyInfoInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.AssemblyInfo.cs
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.csproj.CoreCompileInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.RazorAssemblyInfo.cache
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.RazorAssemblyInfo.cs
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\staticwebassets\Log4NetLogging.StaticWebAssets.Manifest.cache
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\staticwebassets\Log4NetLogging.StaticWebAssets.xml
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\scopedcss\bundle\Log4NetLogging.styles.css
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.TagHelpers.input.cache
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.TagHelpers.output.cache
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.RazorCoreGenerate.cache
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.RazorTargetAssemblyInfo.cache
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.RazorTargetAssemblyInfo.cs
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.Views.pdb
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.csproj.CopyComplete
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.dll
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.pdb
+C:\Users\Uvi\Documents\VStudio 2019\890402_YuvarajManikannan_Stage_3-HandsOn\ASP.Net Core\Log4NetLogging\Log4NetLogging\obj\Debug\netcoreapp3.1\Log4NetLogging.genruntimeconfig.cache
