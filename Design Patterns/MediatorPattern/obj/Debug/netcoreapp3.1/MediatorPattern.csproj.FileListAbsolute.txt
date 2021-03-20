@@ -1,0 +1,13 @@
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.exe
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.deps.json
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.runtimeconfig.json
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.runtimeconfig.dev.json
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.dll
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.csprojAssemblyReference.cache
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.AssemblyInfoInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.AssemblyInfo.cs
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.csproj.CoreCompileInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.dll
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.genruntimeconfig.cache

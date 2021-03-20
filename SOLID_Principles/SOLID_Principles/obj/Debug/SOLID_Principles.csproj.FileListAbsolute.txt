@@ -1,0 +1,7 @@
+C:\Users\Uvi\Documents\VStudio 2019\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.exe.config
+C:\Users\Uvi\Documents\VStudio 2019\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.exe
+C:\Users\Uvi\Documents\VStudio 2019\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.pdb
+C:\Users\Uvi\Documents\VStudio 2019\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.csprojAssemblyReference.cache
+C:\Users\Uvi\Documents\VStudio 2019\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.csproj.CoreCompileInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.exe
+C:\Users\Uvi\Documents\VStudio 2019\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.pdb

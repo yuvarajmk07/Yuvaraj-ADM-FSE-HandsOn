@@ -1,0 +1,13 @@
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\AbstractFactoryHandsOn\bin\Debug\netcoreapp3.1\AbstractFactoryHandsOn.exe
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\AbstractFactoryHandsOn\bin\Debug\netcoreapp3.1\AbstractFactoryHandsOn.deps.json
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\AbstractFactoryHandsOn\bin\Debug\netcoreapp3.1\AbstractFactoryHandsOn.runtimeconfig.json
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\AbstractFactoryHandsOn\bin\Debug\netcoreapp3.1\AbstractFactoryHandsOn.runtimeconfig.dev.json
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\AbstractFactoryHandsOn\bin\Debug\netcoreapp3.1\AbstractFactoryHandsOn.dll
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\AbstractFactoryHandsOn\bin\Debug\netcoreapp3.1\AbstractFactoryHandsOn.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\AbstractFactoryHandsOn\obj\Debug\netcoreapp3.1\AbstractFactoryHandsOn.csprojAssemblyReference.cache
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\AbstractFactoryHandsOn\obj\Debug\netcoreapp3.1\AbstractFactoryHandsOn.AssemblyInfoInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\AbstractFactoryHandsOn\obj\Debug\netcoreapp3.1\AbstractFactoryHandsOn.AssemblyInfo.cs
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\AbstractFactoryHandsOn\obj\Debug\netcoreapp3.1\AbstractFactoryHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\AbstractFactoryHandsOn\obj\Debug\netcoreapp3.1\AbstractFactoryHandsOn.dll
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\AbstractFactoryHandsOn\obj\Debug\netcoreapp3.1\AbstractFactoryHandsOn.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\AbstractFactoryHandsOn\obj\Debug\netcoreapp3.1\AbstractFactoryHandsOn.genruntimeconfig.cache

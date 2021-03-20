@@ -1,0 +1,13 @@
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\SingletonHandsOn\bin\Debug\netcoreapp3.1\SingletonHandsOn.exe
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\SingletonHandsOn\bin\Debug\netcoreapp3.1\SingletonHandsOn.deps.json
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\SingletonHandsOn\bin\Debug\netcoreapp3.1\SingletonHandsOn.runtimeconfig.json
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\SingletonHandsOn\bin\Debug\netcoreapp3.1\SingletonHandsOn.runtimeconfig.dev.json
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\SingletonHandsOn\bin\Debug\netcoreapp3.1\SingletonHandsOn.dll
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\SingletonHandsOn\bin\Debug\netcoreapp3.1\SingletonHandsOn.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\SingletonHandsOn\obj\Debug\netcoreapp3.1\SingletonHandsOn.csprojAssemblyReference.cache
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\SingletonHandsOn\obj\Debug\netcoreapp3.1\SingletonHandsOn.AssemblyInfoInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\SingletonHandsOn\obj\Debug\netcoreapp3.1\SingletonHandsOn.AssemblyInfo.cs
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\SingletonHandsOn\obj\Debug\netcoreapp3.1\SingletonHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\SingletonHandsOn\obj\Debug\netcoreapp3.1\SingletonHandsOn.dll
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\SingletonHandsOn\obj\Debug\netcoreapp3.1\SingletonHandsOn.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\SingletonHandsOn\obj\Debug\netcoreapp3.1\SingletonHandsOn.genruntimeconfig.cache

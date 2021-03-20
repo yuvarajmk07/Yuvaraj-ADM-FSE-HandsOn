@@ -1,0 +1,13 @@
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\FacadePattern\bin\Debug\netcoreapp3.1\FacadePattern.exe
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\FacadePattern\bin\Debug\netcoreapp3.1\FacadePattern.deps.json
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\FacadePattern\bin\Debug\netcoreapp3.1\FacadePattern.runtimeconfig.json
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\FacadePattern\bin\Debug\netcoreapp3.1\FacadePattern.runtimeconfig.dev.json
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\FacadePattern\bin\Debug\netcoreapp3.1\FacadePattern.dll
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\FacadePattern\bin\Debug\netcoreapp3.1\FacadePattern.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\FacadePattern\obj\Debug\netcoreapp3.1\FacadePattern.csprojAssemblyReference.cache
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\FacadePattern\obj\Debug\netcoreapp3.1\FacadePattern.AssemblyInfoInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\FacadePattern\obj\Debug\netcoreapp3.1\FacadePattern.AssemblyInfo.cs
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\FacadePattern\obj\Debug\netcoreapp3.1\FacadePattern.csproj.CoreCompileInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\FacadePattern\obj\Debug\netcoreapp3.1\FacadePattern.dll
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\FacadePattern\obj\Debug\netcoreapp3.1\FacadePattern.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Design Patterns\FacadePattern\obj\Debug\netcoreapp3.1\FacadePattern.genruntimeconfig.cache

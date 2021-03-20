@@ -1,0 +1,26 @@
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.exe
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.deps.json
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.runtimeconfig.json
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.runtimeconfig.dev.json
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.dll
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.csprojAssemblyReference.cache
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.AssemblyInfoInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.AssemblyInfo.cs
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.dll
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.genruntimeconfig.cache
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\Practice Case Study\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.exe
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\Practice Case Study\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.deps.json
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\Practice Case Study\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.runtimeconfig.json
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\Practice Case Study\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.runtimeconfig.dev.json
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\Practice Case Study\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.dll
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\Practice Case Study\AbstractFactoryCaseStudy\bin\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\Practice Case Study\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.csprojAssemblyReference.cache
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\Practice Case Study\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.AssemblyInfoInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\Practice Case Study\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.AssemblyInfo.cs
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\Practice Case Study\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\Practice Case Study\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.dll
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\Practice Case Study\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.pdb
+C:\Users\Uvi\Documents\VStudio 2019\Case Study\DesignPattern Case Study\Practice Case Study\AbstractFactoryCaseStudy\obj\Debug\netcoreapp3.1\AbstractFactoryCaseStudy.genruntimeconfig.cache
