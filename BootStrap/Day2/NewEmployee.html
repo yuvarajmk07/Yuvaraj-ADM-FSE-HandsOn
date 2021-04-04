@@ -1,0 +1,174 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://unpkg.com/gijgo@1.9.13/css/gijgo.min.css" rel="stylesheet" type="text/css" />
+    <link href="customCSS/newEmployee.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <nav class="navbar navbar-expand-sm navbar-dark bg-dark ">
+        <div class="container-fluid">
+            <a href="NewEmployee.html" class="navbar-brand">Payroll</a>
+            <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarMenu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarMenu">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a href="NewEmployee.html" class="nav-link">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="NewEmployee.html" class="nav-link">Employee Registration Form</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <h1>New Employee</h1>
+    <div class="container-fluid">
+        <form onsubmit="Message(); return false">
+            <div class="row">
+                <div class="col-sm-1 col-md-1 col-lg-4">
+                    <div class="form-group">
+                        <label for="firstname">First Name</label>
+                        <input type="text" class="form-control" name="firstname" id="firstname" required />
+                    </div>
+                </div>
+                <div class="col-sm-1 col-md-1 col-lg-4">
+                    <div class="form-group">
+                        <label for="middlename">Middle Name</label>
+                        <input type="text" class="form-control" name="middlename" id="middlename"required />
+                    </div>
+                </div>
+                <div class="col-sm-1 col-md-1 col-lg-4">
+                    <div class="form-group">
+                        <label for="lastname">Last Name</label>
+                        <input type="text" class="form-control" name="lastname" id="lastname"required />
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-1 col-md-1 col-lg-6">
+                    <div class="form-group">
+                        <label for="addressline1">Address Line 1</label>
+                        <input type="text" class="form-control" name="addressline1" id="addressline1" required />
+                    </div>
+                </div>
+                <div class="col-sm-1 col-md-1 col-lg-6">
+                    <div class="form-group">
+                        <label for="addressline2">Address Line 2</label>
+                        <input type="text" class="form-control" name="addressline2" id="addressline2" required />
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-1 col-md-1 col-lg-6">
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" class="form-control" name="email" id="email" required />
+                    </div>
+                </div>
+                <div class="col-sm-1 col-md-1 col-lg-3">
+                    <div class="form-group">
+                        <label for="password">Password</label>
+                        <input type="password" class="form-control" name="password" id="password" required />
+                    </div>
+                </div>
+                <div class="col-sm-1 col-md-1 col-lg-3">
+                    <div class="form-group">
+                        <label for="confirmPassword">Confirm Password</label>
+                        <input type="password" class="form-control" name="confirmPassword" id="confirmPassword" required />
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-1 col-md-1 col-lg-3">
+                    <div class="form-group" style="width:100%">
+                        <label for="department">Department</label>
+                        <select class="form-control" name="department" id="department" >
+                            <option selected disabled hidden style='display: none' value=''></option>
+                            <option value="Management">Management</option>
+                            <option value="Sales">Sales</option>
+                            <option value="Manufacturing">Manufacturing</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-sm-1 col-md-1 col-lg-3">
+                    <div class="form-group">
+                        <label for="dateOfBirth">Date of Birth</label>
+                        <input type="text" class="form-control" id="dateOfBirth" name="dateOfBirth" autocomplete="off">
+                    </div>
+                </div>
+                <div class="col-sm-1 col-md-1 col-lg-3">
+                    <div class="form-group">
+                        <label for="gender">Gender</label>
+                        <div class="radio">
+                            <label class="radio-inline"><input type="radio" value="Male" id="Male"name="gender">&nbsp;Male</label>
+                            <label class="radio-inline"><input type="radio" value="Female" id="Female"name="gender">&nbsp;Female</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-1 col-md-1 col-lg-3">
+                    <div class="form-check-inline">
+                        <label class="form-check-label">
+                            <input type="checkbox" class="form-check-input" id="permanent" value="Yes">Permanent
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            <input type="submit" class="btn btn-primary" value="Save" />
+        </form>
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+            crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+            crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/gijgo@1.9.13/js/gijgo.min.js" type="text/javascript"></script>
+
+    <script>
+
+        $('#dateOfBirth').datepicker({
+
+            uiLibrary: 'bootstrap4',
+
+            format: 'dd/mm/yyyy'
+
+        });
+
+        function Message() {
+            var gender;
+            if (document.getElementById("Male").checked) {
+                gender = "Male";
+            }
+            else {
+                gender = "Female";
+            }
+            var permanent;
+            if (document.getElementById("permanent").checked) {
+                permanent = "Yes";
+            }
+            else {
+                permanent = "No";
+            }
+            alert("First Name:" + document.getElementById("firstname").value + "\n" +"Middle Name:"
+                + document.getElementById("middlename").value +"\n" + "Last Name:"
+                + document.getElementById("lastname").value + "\n" + "Address Line 1:"
+                + document.getElementById("addressline1").value + "\n" + "Address Line 2:"
+                + document.getElementById("addressline2").value + "\n" + "Email:"
+                + document.getElementById("email").value + "\n"  + "Department:"
+            + document.getElementById("department").value + "\n"+"DateOfBirth:"
+                + document.getElementById("dateOfBirth").value + "\n" + "Gender:"
+                + gender + "\n" + "Permanent:"
+                + permanent +"\n\n"+"Employee Added sucessfully!!");
+        }
+    </script>
+</body>
+</html>

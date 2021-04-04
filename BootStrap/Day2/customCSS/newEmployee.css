@@ -1,0 +1,21 @@
+﻿.move-left {
+    width: auto;
+    box-shadow: none;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: limegreen!important;
+    border-color:limegreen;
+}
+.btn{
+    border-radius:0px;
+}
+
+
+.navbar {
+    padding: 0px;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
